@@ -11,6 +11,13 @@ Para um correto funcionamento, este reposit처rio deve estar localizado no diret�
 
 ## Revis천es ##
 
+* **loadlos-v0.3:** O mesmo que a vers찾o anterior, procedimento de chamada do kernel rescrito.
+Requisitos:
+
+```
+LibLOS16.build-007
+```
+
 * **loadlos-v0.2:** O mesmo que a vers찾o anterior, c처digo reorganizado.
 Requisitos:
 
