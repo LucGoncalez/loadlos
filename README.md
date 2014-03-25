@@ -11,6 +11,13 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **loadlos-v0.4:** Carrega e executa um kernel de 16 bits, na memória convencional, em modo protegido.
+Requisitos:
+
+```
+LibLOS16.build-008
+```
+
 * **loadlos-v0.3:** O mesmo que a versão anterior, procedimento de chamada do kernel rescrito.
 Requisitos:
 
