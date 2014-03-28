@@ -11,6 +11,13 @@ Para um correto funcionamento, este reposit처rio deve estar localizado no diret�
 
 ## Revis천es ##
 
+* **loadlos-v0.5:** O mesmo que a vers찾o anterior, c처digo reorganizado.
+Requisitos:
+
+```
+LibLOS16.build-009
+```
+
 * **loadlos-v0.4:** Carrega e executa um kernel de 16 bits, na mem처ria convencional, em modo protegido.
 Requisitos:
 
