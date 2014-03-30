@@ -11,6 +11,13 @@ Para um correto funcionamento, este reposit처rio deve estar localizado no diret�
 
 ## Revis천es ##
 
+* **loadlos-v0.7:** O mesmo que a vers찾o anterior, segmentos de dados e pilha na mem처ria superior.
+Requisitos:
+
+```
+LibLOS16.build-010
+```
+
 * **loadlos-v0.6:** O mesmo que a vers찾o anterior, suporte a A20 adicionando.
 Requisitos:
 
