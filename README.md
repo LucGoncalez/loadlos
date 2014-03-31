@@ -11,6 +11,13 @@ Para um correto funcionamento, este reposit처rio deve estar localizado no diret�
 
 ## Revis천es ##
 
+* **loadlos-v0.12:** Par창metros de boot passados ao bootloader pelo kernel.
+Requisitos:
+
+```
+LibLOS16.build-013
+```
+
 * **loadlos-v0.11:** O mesmo que a vers찾o anterior, c처digo revisado.
 Requisitos:
 
