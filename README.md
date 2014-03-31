@@ -11,6 +11,13 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **loadlos-v0.10:** Kernel de 32 bits rodando na memória superior.
+Requisitos:
+
+```
+LibLOS16.build-012
+```
+
 * **loadlos-v0.9:** O mesmo que a versão anterior, vídeo acessado por segmento FLAT32.
 Requisitos:
 
