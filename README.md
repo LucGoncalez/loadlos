@@ -11,6 +11,13 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **loadlos-v0.14:** Versão final do bootloader.
+Requisitos:
+
+```
+LibLOS16.build-014
+```
+
 * **loadlos-v0.13:** Informações coletadas pelo bootloader são passadas ao kernel.
 Requisitos:
 
