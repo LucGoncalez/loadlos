@@ -11,6 +11,13 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **loadlos-v0.15:** Mudança nas tabelas de boot.
+Requisitos:
+
+```
+LibLOS16.build-016
+```
+
 * **loadlos-v0.14.2:** Correção de bug.
 Requisitos:
 
